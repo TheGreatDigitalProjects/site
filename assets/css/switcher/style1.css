@@ -1,0 +1,93 @@
+#style-switcher h2 a { background: #fff none repeat scroll 0 0 }
+#style-switcher h2 a i {color: #f9461d;}
+.topcontrol {background: #f9461d none repeat scroll 0 0;}
+
+.section-title span{background: #f9461d;}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #f9461d  !important;
+}
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.open,
+.navbar-light .navbar-nav .open > .nav-link {
+  color: #f9461d  !important;
+}
+
+.btn-home-bg{background: #f9461d none repeat scroll 0 0;border: 2px solid #f9461d;}
+
+.icon {color: #f9461d;}
+
+.single-choose i{background: #f9461d none repeat scroll 0 0;border: 1px solid #f9461d;}
+.package-name {background: #f9461d none repeat scroll 0 0;}
+.package-hover {background: #f9461d none repeat scroll 0 0;}
+
+.post-date i {color: #f9461d;}
+.single_discount_dsc h3 a:hover { color: #f9461d }
+.single_discount_dsc a {color: #f9461d;}
+
+.book_now input:hover,
+.book_now input:focus {
+border-color: currentcolor currentcolor #f9461d;}
+
+.section-blog-title{background: #f9461d none repeat scroll 0 0;}
+
+.date{color: #f9461d;}
+.blog-text a:hover { color: #f9461d }
+.author_part img {border: 4px solid #f9461d;}
+
+.single_comment img {border: 4px solid #f9461d;}
+
+.search input:hover,.search input:focus{border: 1px solid #f9461d;}
+
+.categories ul li a:hover { color: #f9461d }
+
+.btn-tag-bg:hover,
+.btn-tag-bg:focus {
+    background: #f9461d;
+	border: 1px solid #f9461d;
+    color: #fff;
+}
+.testimonial-content .testimonial-icon{background: #f9461d;}
+.testimonial-content .testimonial-icon:before{border-bottom: 16px solid #f9461d;}
+
+.testimonial .post{color: #f9461d;}
+.owl-theme .owl-controls .owl-page span {background-color: #f9461d !important;}
+
+
+.contact input:hover,
+.contact input:focus {
+border-color: currentcolor currentcolor #f9461d;
+border-style: none none solid;
+border-width: 0 0 1px;
+    box-shadow: none;
+    outline: 0 none;
+}
+.contact textarea:hover,
+.contact textarea:focus {
+    border-color: currentcolor currentcolor #f9461d;
+}
+.contact_address ul li i {
+color: #f9461d ;
+}
+.btn-contact-bg {
+background: #f9461d   none repeat scroll 0 0 !important;
+border: 1px solid #f9461d  !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
