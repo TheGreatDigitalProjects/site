@@ -35,7 +35,7 @@ $(document).ready(function() {
             processData:false,
             success: function(data){
 			  $('form#contact-form').slideUp("fast", function() {
-			  $(this).before('<div class="success">Thank you. Your Email was sent successfully.</div>');
+			  $(this).before('<div class="success">Благодарим. Ваше сообщение отправлено.</div>');
 			  $("#loader").hide();
 			  })
             }           
