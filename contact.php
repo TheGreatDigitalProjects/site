@@ -1,7 +1,9 @@
 <?php 
+	
 	$errors = '';
 	$limit_size=10000000;
-	$myemail = 'admin@xn--b1aghcegycodkmu0a4f.xn--p1ai'; /*Replace with your email*/
+	$myemail = 'thegreatdigitalprojects@mail.ru'; /*Replace with your email*/
+
 	if(empty($_POST['name'])  ||
 	   empty($_POST['email']) ||
 	   empty($_POST['subject']) ||
@@ -50,4 +52,3 @@
 	mail($to, $email_subject, $message, $headers);
 	}
 ?>
-
